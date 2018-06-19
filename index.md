@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 [comment]: # (created with https://www.tablesgenerator.com/markdown_tables)
 
