@@ -3,5 +3,6 @@ theme: jekyll-theme-cayman
 title: OpenPrevo
 description: Online, sicher, einfach! Vermittlung alte und neue Pensionskasse beim Stellenwechsel
 
+show_downloads: true
 github:
   repository_url: https://github.com/open-prevo
